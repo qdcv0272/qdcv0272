@@ -6,7 +6,7 @@
  ⌘ Name: 김창훈 </br>
  ⌘ Birth: 1997.02.12</br>
  ⌘ Address: 경남 양산시 양주로 </br>
- ⌘ Education: 인제대학교 컴퓨터공학부
+ ⌘ Education: 인제대학교 컴퓨터공학부 졸업</br>
  ⌘ E-mail: qdcv0272@naver.com </br>
 </div>
 
