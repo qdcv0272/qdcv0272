@@ -32,7 +32,4 @@ android 를 만나 코딩의 세계에 빠지게된 Developer 입니다.
   <img src="https://img.shields.io/badge/JavaScript-orange?style=social&logo=JavaScript&logoColor=F7DF1E"/>
 </p>
 <hr/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qdcv0272&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qdcv0272&layout=compact&theme=tokyonight)
 <hr/>
