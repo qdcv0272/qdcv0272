@@ -23,13 +23,10 @@ android 를 만나 코딩의 세계에 빠지게된 Developer 입니다.
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Xcode-orange?style=social&logo=Xcode&logoColor=147EFB"/>
-  <img src="https://img.shields.io/badge/Swift-orange?style=social&logo=Swift&logoColor=F05138"/>
-  <img src="https://img.shields.io/badge/Android-orange?style=social&logo=Android&logoColor=CC6699"/>
-  <img src="https://img.shields.io/badge/Kotlin-orange?style=social&logo=Kotlin&logoColor=7F52FF"/>
   <img src="https://img.shields.io/badge/HTML5-orange?style=social&logo=HTML5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-orange?style=social&logo=CSS3&logoColor=#1572B6"/> 
   <img src="https://img.shields.io/badge/JavaScript-orange?style=social&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
 <hr/>
 <hr/>
