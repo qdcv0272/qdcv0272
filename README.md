@@ -9,21 +9,19 @@
 
 ## 💼 Work Experience
 ### **아만타 (Amanta)**
-*Front-end Developer | 20XX.XX - Present (2년 9개월)*
+*Front-end Developer |(2년 9개월)*
 
 * **교육 프로그램 서비스 개발 및 고도화**
     * 학습 효율을 극대화하기 위한 교육용 인터페이스(UI) 설계 및 구현
-    * 대규모 사용자 데이터를 시각화하는 대시보드 및 리포트 기능 개발
-    * 프론트엔드 성능 최적화 및 공통 컴포넌트 라이브러리 구축
+    * 대규모 사용자 데이터를 퀴즈, 교육에필요한 기능 개발
 
 <br/>
 
 ## 🛠 Tech Stack
 | Category | Tech Stack |
 | :--- | :--- |
-| **Frontend** | `JavaScript (ES6+)`, `React`, `HTML5`, `CSS3` |
-| **Tools** | `Git`, `GitHub`, `VS Code` |
-| **Communication** | `Slack`, `Notion` |
+| **Frontend** | `JavaScript (ES6+)`,`TypeScript` ,`React`, `HTML5`, `CSS3` |
+| **Tools** | `svn`, `Git`, `GitHub`, `VS Code` |
 
 <br/>
 
@@ -35,7 +33,3 @@
 * **Location:** 경남 양산시
 
 ---
-
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인계정ID&show_icons=true&theme=transparent&hide_border=true" alt="stats" />
-</p>
