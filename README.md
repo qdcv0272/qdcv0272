@@ -20,25 +20,6 @@ React와 TypeScript를 기반으로 단순 UI 구현을 넘어
 드래그앤드롭, 선긋기 등 다양한 인터랙션을 공통 모듈로 추상화하고  
 대규모 콘텐츠를 효율적으로 생산할 수 있는 구조를 설계했습니다.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qdcv0272&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdcv0272&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌱 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qdcv0272&theme=tokyo-night"/>
-</p>
-
----
-
 ## 🚀 Key Projects
 
 ### 1. AlgoCanvas  
